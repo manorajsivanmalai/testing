@@ -1,3 +1,6 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+force push we can do without pull request but ur local repo code will be the updated code in github repo
+ 
